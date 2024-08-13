@@ -1,0 +1,6 @@
+[submodule "simplegps-web"]
+	path = simplegps-web
+	url = git@github.com:jordan-dinwiddy/simplegps-web.git
+[submodule "mycoldplunge"]
+	path = mycoldplunge
+	url = git@github.com:jordan-dinwiddy/mycoldplunge.git
